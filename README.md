@@ -1,4 +1,2 @@
 # Analysis_of_realworld_hacks
-This repository contians a list of pdfs I will update over time that contain a prelemenary analysis of real world cyber attacks.
-The reason why I do these reports is to get more familiar with the industry linguo (in this case cybersecurity industry), as well as to learn what are the problem that arise on different industries, the TTPS that attackers use and 
-to learn of the technologies that are used on organisational settings that get compromised.
+This repository contains a list of PDFs (which I will update over time) that provide a preliminary analysis of real-world cyber attacks. I create these reports to become more familiar with the cybersecurity industry’s terminology, understand the problems that arise across different sectors, study the TTPs (tactics, techniques, and procedures) that attackers employ, and learn about the technologies used in organizational environments that ultimately get compromised. Ultimately, it's just a passion project.
